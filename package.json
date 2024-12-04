@@ -1,0 +1,19 @@
+{
+  "name": "ag-grid-packages",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "@types/react": "16.9.10",
+    "@types/react-dom": "16.9.2",
+    "ag-grid-react": "~31.0.2",
+    "ag-grid-community": "~31.0.2",
+    "ag-grid-enterprise": "~31.0.2",
+    "react-scripts-ts": "^2.13.0"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  }
+}
